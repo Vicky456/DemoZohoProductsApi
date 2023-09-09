@@ -1,0 +1,404 @@
+{
+  "voice": {
+    "productName": "Zoho Voice",
+    "productDesc": "Cloud contact center software for businesses.",
+    "productLink": "https://zoho.com/voice",
+    "productLogoLink": "https://www.zohowebstatic.com/sites/zweb/images/productlogos/voice.svg"
+  },
+  "subscriptions": {
+    "productName": "Zoho Subscriptions",
+    "productDesc": "Manage end-to-end customer subscription billing life cycles.",
+    "productLink": "https://zoho.com/subscriptions",
+    "productLogoLink": "https://www.zohowebstatic.com/sites/zweb/images/productlogos/subscriptions.svg"
+  },
+  "projects": {
+    "productName": "Zoho Projects",
+    "productDesc": "Manage, track, collaborate on projects with teams.",
+    "productLink": "https://zoho.com/projects",
+    "productLogoLink": "https://www.zohowebstatic.com/sites/zweb/images/productlogos/projects.svg"
+  },
+  "mail": {
+    "productName": "Zoho Mail",
+    "productDesc": "Secure email service for teams of all sizes.",
+    "productLink": "https://zoho.com/mail",
+    "productLogoLink": "https://www.zohowebstatic.com/sites/zweb/images/productlogos/mail.svg"
+  },
+  "sign": {
+    "productName": "Zoho Sign",
+    "productDesc": "Digital signature app for businesses.",
+    "productLink": "https://zoho.com/sign",
+    "productLogoLink": "https://www.zohowebstatic.com/sites/zweb/images/productlogos/sign.svg"
+  },
+  "landingpage": {
+    "productName": "Zoho LandingPage",
+    "productDesc": "Smart landing page builder to increase conversion rates.",
+    "productLink": "https://zoho.com/landingpage",
+    "productLogoLink": "https://www.zohowebstatic.com/sites/zweb/images/productlogos/landingpage.svg"
+  },
+  "sites": {
+    "productName": "Zoho Sites",
+    "productDesc": "Online website builder with extensive customisation options.",
+    "productLink": "https://zoho.com/sites",
+    "productLogoLink": "https://www.zohowebstatic.com/sites/zweb/images/productlogos/sites.svg"
+  },
+  "researchstudio": {
+    "productName": "Zoho ResearchStudio",
+    "productDesc": "Cloud-based qualitative research repository and analysis tool.",
+    "productLink": "https://zoho.com/researchstudio",
+    "productLogoLink": "https://www.zohowebstatic.com/sites/zweb/images/productlogos/researchstudio.svg"
+  },
+  "analytics": {
+    "productName": "Zoho Analytics",
+    "productDesc": "Modern self-service BI and analytics platform.",
+    "productLink": "https://zoho.com/analytics",
+    "productLogoLink": "https://www.zohowebstatic.com/sites/zweb/images/productlogos/analytics.svg"
+  },
+  "workerly": {
+    "productName": "Zoho Workerly",
+    "productDesc": "Manage temporary staffing with an employee scheduling solution.",
+    "productLink": "https://zoho.com/workerly",
+    "productLogoLink": "https://www.zohowebstatic.com/sites/zweb/images/productlogos/workerly.svg"
+  },
+  "tables": {
+    "productName": "Zoho Tables",
+    "productDesc": "A no-code custom work management tool to transform the way you work.",
+    "productLink": "https://zoho.com/tables",
+    "productLogoLink": "https://www.zohowebstatic.com/sites/zweb/images/productlogos/tables.svg"
+  },
+  "backtowork": {
+    "productName": "Zoho BackToWork",
+    "productDesc": "Ensure employee safety at workplace.",
+    "productLink": "https://zoho.com/backtowork",
+    "productLogoLink": "https://www.zohowebstatic.com/sites/zweb/images/productlogos/backtowork.svg"
+  },
+  "campaigns": {
+    "productName": "Zoho Campaigns",
+    "productDesc": "Create, send, and track targeted email campaigns that drive sales.",
+    "productLink": "https://zoho.com/campaigns",
+    "productLogoLink": "https://www.zohowebstatic.com/sites/zweb/images/productlogos/campaigns.svg"
+  },
+  "bugtracker": {
+    "productName": "Zoho BugTracker",
+    "productDesc": "Automatic bug tracking software for managing bugs.",
+    "productLink": "https://zoho.com/bugtracker",
+    "productLogoLink": "https://www.zohowebstatic.com/sites/zweb/images/productlogos/bugtracker.svg"
+  },
+  "shifts": {
+    "productName": "Zoho Shifts",
+    "productDesc": "Employee scheduling and time tracking app.",
+    "productLink": "https://zoho.com/shifts",
+    "productLogoLink": "https://www.zohowebstatic.com/sites/zweb/images/productlogos/shifts.svg"
+  },
+  "sprints": {
+    "productName": "Zoho Sprints",
+    "productDesc": "Planning and tracking tool for scrum teams.",
+    "productLink": "https://zoho.com/sprints",
+    "productLogoLink": "https://www.zohowebstatic.com/sites/zweb/images/productlogos/sprints.svg"
+  },
+  "meeting": {
+    "productName": "Zoho Meeting",
+    "productDesc": "Online meeting software for all your video conferencing & webinar needs.",
+    "productLink": "https://zoho.com/meeting",
+    "productLogoLink": "https://www.zohowebstatic.com/sites/zweb/images/productlogos/meeting.svg"
+  },
+  "flow": {
+    "productName": "Zoho Flow",
+    "productDesc": "Automate business workflows by creating smart integrations.",
+    "productLink": "https://zoho.com/flow",
+    "productLogoLink": "https://www.zohowebstatic.com/sites/zweb/images/productlogos/flow.svg"
+  },
+  "vault": {
+    "productName": "Zoho Vault",
+    "productDesc": "Online password manager for teams.",
+    "productLink": "https://zoho.com/vault",
+    "productLogoLink": "https://www.zohowebstatic.com/sites/zweb/images/productlogos/vault.svg"
+  },
+  "notebook": {
+    "productName": "Zoho Notebook",
+    "productDesc": "A beautiful home for all your notes.",
+    "productLink": "https://zoho.com/notebook",
+    "productLogoLink": "https://www.zohowebstatic.com/sites/zweb/images/productlogos/notebook.svg"
+  },
+  "webinar": {
+    "productName": "Zoho Webinar",
+    "productDesc": "Webinar platform for webcasting online webinars.",
+    "productLink": "https://zoho.com/webinar",
+    "productLogoLink": "https://www.zohowebstatic.com/sites/zweb/images/productlogos/webinar.svg"
+  },
+  "salesiq": {
+    "productName": "Zoho SalesIQ",
+    "productDesc": "Live-chat app to engage and convert website visitors.",
+    "productLink": "https://zoho.com/salesiq",
+    "productLogoLink": "https://www.zohowebstatic.com/sites/zweb/images/productlogos/salesiq.svg"
+  },
+  "routeiq": {
+    "productName": "Zoho RouteIQ",
+    "productDesc": "Comprehensive sales map visualization and optimal route planning solution.",
+    "productLink": "https://zoho.com/routeiq",
+    "productLogoLink": "https://www.zohowebstatic.com/sites/zweb/images/productlogos/routeiq.svg"
+  },
+  "expense": {
+    "productName": "Zoho Expense",
+    "productDesc": "Effortless expense reporting platform.",
+    "productLink": "https://zoho.com/expense",
+    "productLogoLink": "https://www.zohowebstatic.com/sites/zweb/images/productlogos/expense.svg"
+  },
+  "bigin": {
+    "productName": "Zoho Bigin",
+    "productDesc": "Pipeline management solution for customer-facing teams.",
+    "productLink": "https://zoho.com/bigin",
+    "productLogoLink": "https://www.zohowebstatic.com/sites/zweb/images/productlogos/bigin.svg"
+  },
+  "books": {
+    "productName": "Zoho Books",
+    "productDesc": "Powerful financial platform for growing businesses.",
+    "productLink": "https://zoho.com/books",
+    "productLogoLink": "https://www.zohowebstatic.com/sites/zweb/images/productlogos/books.svg"
+  },
+  "catalyst": {
+    "productName": "Zoho Catalyst",
+    "productDesc": "Build and deploy serverless apps.",
+    "productLink": "https://zoho.com/catalyst",
+    "productLogoLink": "https://www.zohowebstatic.com/sites/zweb/images/productlogos/catalyst.svg"
+  },
+  "recruit": {
+    "productName": "Zoho Recruit",
+    "productDesc": "Intuitive recruiting platform built to provide hiring solutions.",
+    "productLink": "https://zoho.com/recruit",
+    "productLogoLink": "https://www.zohowebstatic.com/sites/zweb/images/productlogos/recruit.svg"
+  },
+  "desk": {
+    "productName": "Zoho Desk",
+    "productDesc": "Helpdesk software to deliver great customer support.",
+    "productLink": "https://zoho.com/desk",
+    "productLogoLink": "https://www.zohowebstatic.com/sites/zweb/images/productlogos/desk.svg"
+  },
+  "toolkit by mail": {
+    "productName": "Zoho Toolkit by Mail",
+    "productDesc": "Toolkit by Zoho Mail For all your lookup queries.",
+    "productLink": "https://zoho.com/toolkit",
+    "productLogoLink": "https://www.zohowebstatic.com/sites/zweb/images/productlogos/toolkit.svg"
+  },
+  "survey": {
+    "productName": "Zoho Survey",
+    "productDesc": "Design surveys to reach and interact with your audience.",
+    "productLink": "https://zoho.com/survey",
+    "productLogoLink": "https://www.zohowebstatic.com/sites/zweb/images/productlogos/survey.svg"
+  },
+  "payroll": {
+    "productName": "Zoho Payroll",
+    "productDesc": "Effortless payroll processing software for businesses.",
+    "productLink": "https://zoho.com/payroll",
+    "productLogoLink": "https://www.zohowebstatic.com/sites/zweb/images/productlogos/payroll.svg"
+  },
+  "bookings": {
+    "productName": "Zoho Bookings",
+    "productDesc": "Appointment scheduling app for consultations with customers.",
+    "productLink": "https://zoho.com/bookings",
+    "productLogoLink": "https://www.zohowebstatic.com/sites/zweb/images/productlogos/bookings.svg"
+  },
+  "pagesense": {
+    "productName": "Zoho PageSense",
+    "productDesc": "Website conversion optimization and personalisation platform.",
+    "productLink": "https://zoho.com/pagesense",
+    "productLogoLink": "https://www.zohowebstatic.com/sites/zweb/images/productlogos/pagesense.svg"
+  },
+  "fsm": {
+    "productName": "Zoho FSM",
+    "productDesc": "End-to-end field service management platform for service businesses.",
+    "productLink": "https://zoho.com/fsm",
+    "productLogoLink": "https://www.zohowebstatic.com/sites/zweb/images/productlogos/fsm.svg"
+  },
+  "zepto mail": {
+    "productName": "Zoho Zepto Mail",
+    "productDesc": "Transactional email service with reliable and fast delivery.",
+    "productLink": "https://zoho.com/zeptomail",
+    "productLogoLink": "https://www.zohowebstatic.com/sites/zweb/images/productlogos/zeptomail.svg"
+  },
+  "embedded bi": {
+    "productName": "Zoho Embedded BI",
+    "productDesc": "Embedded analytics and white label BI solutions, tailored for your needs.",
+    "productLink": "https://zoho.com/analytics/embedded-analytics.html",
+    "productLogoLink": "https://www.zohowebstatic.com/sites/zweb/images/productlogos/analytics-dark.svg"
+  },
+  "show": {
+    "productName": "Zoho Show",
+    "productDesc": "Create, edit, and share slides with a sleek presentation app.",
+    "productLink": "https://zoho.com/show",
+    "productLogoLink": "https://www.zohowebstatic.com/sites/zweb/images/productlogos/show.svg"
+  },
+  "commerce": {
+    "productName": "Zoho Commerce",
+    "productDesc": "eCommerce platform to manage and market your online store.",
+    "productLink": "https://zoho.com/commerce",
+    "productLogoLink": "https://www.zohowebstatic.com/sites/zweb/images/productlogos/commerce.svg"
+  },
+  "contracts": {
+    "productName": "Zoho Contracts",
+    "productDesc": "Comprehensive contract lifecycle management software.",
+    "productLink": "https://zoho.com/contracts",
+    "productLogoLink": "https://www.zohowebstatic.com/sites/zweb/images/productlogos/contracts.svg"
+  },
+  "inventory": {
+    "productName": "Zoho Inventory",
+    "productDesc": "Powerful stock management and inventory control software.",
+    "productLink": "https://zoho.com/inventory",
+    "productLogoLink": "https://www.zohowebstatic.com/sites/zweb/images/productlogos/inventory.svg"
+  },
+  "lens": {
+    "productName": "Zoho Lens",
+    "productDesc": "Interactive remote assistance software with augmented reality.",
+    "productLink": "https://zoho.com/lens",
+    "productLogoLink": "https://www.zohowebstatic.com/sites/zweb/images/productlogos/lens.svg"
+  },
+  "directory": {
+    "productName": "Zoho Directory",
+    "productDesc": "Workforce identity and access management solution for cloud businesses.",
+    "productLink": "https://zoho.com/directory",
+    "productLogoLink": "https://www.zohowebstatic.com/sites/zweb/images/productlogos/directory.svg"
+  },
+  "backstage": {
+    "productName": "Zoho Backstage",
+    "productDesc": "End-to-end event management software.",
+    "productLink": "https://zoho.com/backstage",
+    "productLogoLink": "https://www.zohowebstatic.com/sites/zweb/images/productlogos/backstage.svg"
+  },
+  "teaminbox": {
+    "productName": "Zoho TeamInbox",
+    "productDesc": "Shared inboxes for teams.",
+    "productLink": "https://zoho.com/teaminbox",
+    "productLogoLink": "https://www.zohowebstatic.com/sites/zweb/images/productlogos/teaminbox.svg"
+  },
+  "sheet": {
+    "productName": "Zoho Sheet",
+    "productDesc": "The spreadsheet software for collaborative teams.",
+    "productLink": "https://zoho.com/sheet",
+    "productLogoLink": "https://www.zohowebstatic.com/sites/zweb/images/productlogos/sheet.svg"
+  },
+  "workdrive": {
+    "productName": "Zoho WorkDrive",
+    "productDesc": "Online file management for teams.",
+    "productLink": "https://zoho.com/workdrive",
+    "productLogoLink": "https://www.zohowebstatic.com/sites/zweb/images/productlogos/workdrive.svg"
+  },
+  "checkout": {
+    "productName": "Zoho Checkout",
+    "productDesc": "Collect payments online with custom branded pages.",
+    "productLink": "https://zoho.com/checkout",
+    "productLogoLink": "https://www.zohowebstatic.com/sites/zweb/images/productlogos/checkout.svg"
+  },
+  "connect": {
+    "productName": "Zoho Connect",
+    "productDesc": "Team collaboration software that brings people together.",
+    "productLink": "https://zoho.com/connect",
+    "productLogoLink": "https://www.zohowebstatic.com/sites/zweb/images/productlogos/connect.svg"
+  },
+  "crm": {
+    "productName": "Zoho CRM",
+    "productDesc": "Convert leads and close sales deals faster.",
+    "productLink": "https://zoho.com/crm",
+    "productLogoLink": "https://www.zohowebstatic.com/sites/zweb/images/productlogos/crm.svg"
+  },
+  "creator": {
+    "productName": "Zoho Creator",
+    "productDesc": "Build customized apps to simplify business processes.",
+    "productLink": "https://zoho.com/creator",
+    "productLogoLink": "https://www.zohowebstatic.com/sites/zweb/images/productlogos/creator.svg"
+  },
+  "calender": {
+    "productName": "Zoho Calender",
+    "productDesc": "Online business calendar to manage events and schedule appointments.",
+    "productLink": "https://zoho.com/calendar",
+    "productLogoLink": "https://www.zohowebstatic.com/sites/zweb/images/productlogos/calendar.svg"
+  },
+  "learn": {
+    "productName": "Zoho Learn",
+    "productDesc": "Knowledge and learning management platform.",
+    "productLink": "https://zoho.com/learn",
+    "productLogoLink": "https://www.zohowebstatic.com/sites/zweb/images/productlogos/learn.svg"
+  },
+  "office integrator": {
+    "productName": "Zoho Office Integrator",
+    "productDesc": "Built in document editors for web apps.",
+    "productLink": "https://zoho.com/officeintegrator",
+    "productLogoLink": "https://www.zohowebstatic.com/sites/zweb/images/productlogos/officeintegrator.svg"
+  },
+  "social": {
+    "productName": "Zoho Social",
+    "productDesc": "The all-in-one social media management software.",
+    "productLink": "https://zoho.com/social",
+    "productLogoLink": "https://www.zohowebstatic.com/sites/zweb/images/productlogos/social.svg"
+  },
+  "people": {
+    "productName": "Zoho People",
+    "productDesc": "Organize, automate, and simplify your HR processes.",
+    "productLink": "https://zoho.com/people",
+    "productLogoLink": "https://www.zohowebstatic.com/sites/zweb/images/productlogos/people.svg"
+  },
+  "marketing automation": {
+    "productName": "Zoho Marketing Automation",
+    "productDesc": "An all-in-one marketing automation software.",
+    "productLink": "https://zoho.com/marketingautomation",
+    "productLogoLink": "https://www.zohowebstatic.com/sites/zweb/images/productlogos/marketingautomation.svg"
+  },
+  "todo": {
+    "productName": "Zoho ToDo",
+    "productDesc": "Collaborative task management for individuals and teams.",
+    "productLink": "https://zoho.com/todo",
+    "productLogoLink": "https://www.zohowebstatic.com/sites/zweb/images/productlogos/todo.svg"
+  },
+  "publish": {
+    "productName": "Zoho Publish",
+    "productDesc": "Manage all your local business listings on a single platform.",
+    "productLink": "https://zoho.com/publish",
+    "productLogoLink": "https://www.zohowebstatic.com/sites/zweb/images/productlogos/publish.svg"
+  },
+  "dataprep": {
+    "productName": "Zoho DataPrep",
+    "productDesc": "AI-powered data preparation service for your data-driven organization.",
+    "productLink": "https://zoho.com/dataprep",
+    "productLogoLink": "https://www.zohowebstatic.com/sites/zweb/images/productlogos/dataprep.svg"
+  },
+  "assist": {
+    "productName": "Zoho Assist",
+    "productDesc": "Remote support and unattended remote access software.",
+    "productLink": "https://zoho.com/assist",
+    "productLogoLink": "https://www.zohowebstatic.com/sites/zweb/images/productlogos/assist.svg"
+  },
+  "invoice": {
+    "productName": "Zoho Invoice",
+    "productDesc": "100% Free invoicing solution",
+    "productLink": "https://zoho.com/invoice",
+    "productLogoLink": "https://www.zohowebstatic.com/sites/zweb/images/productlogos/invoice.svg"
+  },
+  "thrive": {
+    "productName": "Zoho Thrive",
+    "productDesc": "A complete loyalty and affiliate management platform.",
+    "productLink": "https://zoho.com/thrive",
+    "productLogoLink": "https://www.zohowebstatic.com/sites/zweb/images/productlogos/thrive.svg"
+  },
+  "writer": {
+    "productName": "Zoho Writer",
+    "productDesc": "Word processor for focused writing and discussions.",
+    "productLink": "https://zoho.com/writer",
+    "productLogoLink": "https://www.zohowebstatic.com/sites/zweb/images/productlogos/writer.svg"
+  },
+  "apptics": {
+    "productName": "Zoho Apptics",
+    "productDesc": "Mobile application analytics, usage, and engagement monitoring solution.",
+    "productLink": "https://zoho.com/apptics",
+    "productLogoLink": "https://www.zohowebstatic.com/sites/zweb/images/productlogos/apptics.svg"
+  },
+  "forms": {
+    "productName": "Zoho Forms",
+    "productDesc": "Build online forms for every business need.",
+    "productLink": "https://zoho.com/forms",
+    "productLogoLink": "https://www.zohowebstatic.com/sites/zweb/images/productlogos/forms.svg"
+  },
+  "cliq": {
+    "productName": "Zoho Cliq",
+    "productDesc": "Stay in touch with teams no matter where you are.",
+    "productLink": "https://zoho.com/cliq",
+    "productLogoLink": "https://www.zohowebstatic.com/sites/zweb/images/productlogos/cliq.svg"
+  }
+}
